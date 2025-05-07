@@ -1,7 +1,3 @@
-- 👋 Hi, I’m sümeyra
-- 👀 I’m interested in mobile app devolopment
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me: sumeyraertan123@gmail.com
   
 
